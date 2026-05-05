@@ -36,7 +36,7 @@ fall2025$building <- as.character(fall2025$building)
 
 
 ui <- fluidPage(
-  titlePanel("Sewanee Dashboard"),
+  titlePanel("A Data-Driven Look at Environment and Resource Use in a Small University Town"),
   
   sidebarLayout(
     sidebarPanel(
